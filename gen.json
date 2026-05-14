@@ -1,0 +1,29 @@
+{
+    "version": "1.0.3",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.3/gen_windows_386.zip",
+            "bin": [
+                "gen.exe"
+            ],
+            "hash": "01790988ec7a1d14271a22c6871a227e56b16518d9c043c41dd7ac4705cccac7"
+        },
+        "64bit": {
+            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.3/gen_windows_amd64.zip",
+            "bin": [
+                "gen.exe"
+            ],
+            "hash": "0cacd339d96186c983c0dd786744b5d4783a851f081f196fa0d489cba696a977"
+        },
+        "arm64": {
+            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.3/gen_windows_arm64.zip",
+            "bin": [
+                "gen.exe"
+            ],
+            "hash": "b0a8b8cc73db5a47ee1c79c10854d5e4b4ab6176a8914deed4fc7d321ebaa448"
+        }
+    },
+    "homepage": "https://github.com/aminshahid573/gen",
+    "license": "MIT",
+    "description": "A Swiss Army knife CLI tool for developers, packed with useful utilities for daily tasks."
+}
