@@ -1,26 +1,26 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.5/gen_windows_386.zip",
+            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.6/gen_windows_386.zip",
             "bin": [
                 "gen.exe"
             ],
-            "hash": "9ed3a7702660a9e48c2de81386e5cec4b7d98e51f60e1dde809c4c2e6cfdcd54"
+            "hash": "7db2c92a96d81467356100cee9b43b7f973520ede337068522adbfaa349ffc51"
         },
         "64bit": {
-            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.5/gen_windows_amd64.zip",
+            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.6/gen_windows_amd64.zip",
             "bin": [
                 "gen.exe"
             ],
-            "hash": "85556d20e22a29d63eb47fdb63818ceaa9a8f27c6c72940cbc31bbc013017fc3"
+            "hash": "099b835a0bc99ed7ec7b4b473381c027d737d43be6e7be62d0fe847f50354525"
         },
         "arm64": {
-            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.5/gen_windows_arm64.zip",
+            "url": "https://github.com/aminshahid573/gen/releases/download/v1.0.6/gen_windows_arm64.zip",
             "bin": [
                 "gen.exe"
             ],
-            "hash": "e2014ddf424b2fa5e8d6863355dea725a0cb1993fc388dbbf62a4562c33c7c4f"
+            "hash": "e2752f226573e196af7e7140c86cea3722de7a75f642d1ce0f0db7c8ed5c1012"
         }
     },
     "homepage": "https://github.com/aminshahid573/gen",
